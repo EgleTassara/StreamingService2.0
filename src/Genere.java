@@ -1,0 +1,4 @@
+public enum Genere {
+
+    THRILLER, AZIONE, COMMEDIA, GIALLO, HORROR, DRAMMATICO;
+}
